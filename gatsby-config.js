@@ -81,7 +81,6 @@ module.exports = {
         ]
       : []),
     `gatsby-transformer-csv`,
-    'gatsby-plugin-use-query-params',
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-react-helmet-canonical-urls`,
